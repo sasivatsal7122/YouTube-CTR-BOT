@@ -1,0 +1,7 @@
+cx_Oracle==8.3.0
+fake_useragent==1.2.1
+loguru==0.7.0
+selenium==4.14.0
+selenium_wire==5.1.0
+WMI==1.4.9
+yt_dlp==2023.6.22
